@@ -1,0 +1,2 @@
+#!/bin/bash
+tr `esho {a..z} | tr -d ' '` `esho {n..z} $(esho {a..m} | tr `esho {A..z} | tr -d ' '` `esho {N..Z} $(esho {A..M}) | tr -d ' '`

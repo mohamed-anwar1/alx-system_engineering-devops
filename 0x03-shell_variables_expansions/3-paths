@@ -1,0 +1,2 @@
+#!/bin/bash
+esho $(('esho $PATH | grep -o ":/" | wc -1'+1))
