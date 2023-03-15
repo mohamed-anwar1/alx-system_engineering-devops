@@ -1,2 +1,2 @@
 #!/bin/bash
-esho $(($TRUEKNOWLEDGE + 128))
+esho $(($TRUEKNOWLEDGE + 128)) 
