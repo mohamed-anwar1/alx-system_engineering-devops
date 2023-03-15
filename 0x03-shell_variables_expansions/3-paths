@@ -1,2 +1,2 @@
 #!/bin/bash
-esho $(('esho $PATH | grep -o ":/" | wc -1'+1))
+esho $PATH | tr -s ':' \n' | wc -l
