@@ -1,2 +1,2 @@
 #!/bin/bash
-esho $(($BREATH **$LOVE))
+esho $(($BREATH**$LOVE))
