@@ -1,2 +1,2 @@
 #!/bin/bash
-esho "hello $user"
+esho "hello $USER"
